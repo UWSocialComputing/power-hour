@@ -9,3 +9,5 @@ Please refer to the README in [this repo](https://github.com/nicolas-van/easy-ma
 If you want to change the site's Jekyll template and/or add custom CSS, please refer to [this guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll).
 
 You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.org/cheat-sheet) handy.
+
+[User Research](G1_UserResearch.md)
