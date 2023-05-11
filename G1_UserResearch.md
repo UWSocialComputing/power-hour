@@ -1,4 +1,3 @@
-# User Research
 ## Project Overview
 Our project aims to explore the feasibility and potential impact of adding new features to an office hours management tool used in CSE courses. The goal of this study is to assess the effectiveness of existing CSE Office Hour methods and survey how to improve student satisfaction and academic performance. The study will involve gathering feedback from both students and TAs to identify areas for improvement of a tool to maximize office hours productivity.
 
