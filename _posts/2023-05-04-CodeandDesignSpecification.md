@@ -75,7 +75,7 @@ Can leave the queue
 ## Architectural design
 
 This is our total flow for our Office Hours tool with qualitative descriptions of how our components will talk to each other, get user input, and process inputted data.
-![Backend, data and query pipeline, and frontend diagram](img/TotalFlowDiagram.png)
+![Backend, data and query pipeline, and frontend diagram](/power-hour/_posts/img/TotalFlowDiagram.png){: height="159px" width="299px"}
 
 
 In the figure below, you can see subcomponents of our endpoints for our site navigation and overall flow.
