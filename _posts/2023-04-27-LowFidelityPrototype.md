@@ -5,18 +5,18 @@ Our prototype includes the following components:
 - **Joining the OH**: When joining the queue, students will need to enter some information before getting help. We use a google form that asks for students’ name, question type, details on their question, and whether or not they are open to collaboration.
 After submitting, we will show them a spreadsheet that we will populate with their response and additional columns such as timestamp and status. This will allow them to track their place in the queue and see what other students are working on, as well as their willingness to collaborate.
 - **Student collaboration**: There should also be a built-in communication tool that allows students to connect and collaborate with each other in the form of a chat. To simulate that, we have a google chat open to the right of the queue spreadsheet allowing students to create or join a Space and chat with other students who indicated “Yes” to Open to Collaborate. We will create the space for them once they tell us who they want to include in the new collaboration session.
-We will join separately to act as the other students, as well as a “chatbot” that reminds students about collaboration policy and notifying students when they are next in the queue.
+We will join separately to act as the other students, as well as an automated message that reminds students about collaboration policy and notifying students when they are next in the queue.
 
 ## Prototype screenshots
 Main interface with queue and collaboration chat side by side:
-![main interface prototype](_posts/img/PrototypeMainInterface.png)
+![main interface prototype](../img/PrototypeMainInterface.png)
 Users can switch to all students' views to see all active students in OH session. Some of them can be helped or idle (not needing help from the TA at the moment) but still open to collaboration.
 
 Google form for providing information to join OH:
-![form prototype](_posts/img/PrototypeForm.png)
+![form prototype](../img/PrototypeForm.png)
 
 Chat interface with collaboration policy message from the bot:
-![chat prototype](_posts/img/PrototypeChat.png)
+![chat prototype](../img/PrototypeChat.png)
 
 ## Findings
 
