@@ -9,14 +9,14 @@ We will join separately to act as the other students, as well as an automated me
 
 ## Prototype screenshots
 Main interface with queue and collaboration chat side by side:
-![main interface prototype](../img/PrototypeMainInterface.png)
+![main interface prototype](/power-hour/img/PrototypeMainInterface.png)
 Users can switch to all students' views to see all active students in OH session. Some of them can be helped or idle (not needing help from the TA at the moment) but still open to collaboration.
 
 Google form for providing information to join OH:
-![form prototype](../img/PrototypeForm.png)
+![form prototype](/power-hour/img/PrototypeForm.png)
 
 Chat interface with collaboration policy message from the bot:
-![chat prototype](../img/PrototypeChat.png)
+![chat prototype](/power-hour/img/PrototypeChat.png)
 
 ## Findings
 
