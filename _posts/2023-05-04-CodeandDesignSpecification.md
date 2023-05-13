@@ -56,7 +56,7 @@ Student flow:
 ### Registration flow
 - Student registers for an account with their email and password
 - Student logs in everytime she wants to enter the queue. Her messages and previous queuing history is stored in this account.
-![Login flow storyboard](img/StoryboardRegistration.png)
+![Login flow storyboard](/power-hour/img/StoryboardRegistration.png){: height="159px" width="299px" }
 
 ### Normal OH flow
 - Student gets stuck on HW and signs into the OH tool
@@ -65,23 +65,23 @@ Student flow:
 - TA comes over and help the student (Status: Being Helped)
 - Student is helped and gets prompted a message to give the TA a kudos if they are helpful (Status: Helped)
 - Student gives TA a kudos and walks away satisfied
-![Normal flow storyboard](../img/StoryboardNormal.png)
+![Normal flow storyboard](/power-hour/img/StoryboardNormal.png){: height="159px" width="299px" }
 
 ### Collaboration flow
 - Student sees many people open to collaboration on the queue working on similar problem
 - Student creates a collaboration session/joins an existing collaboration session with those students
 - In the chat, student gets inspiration from a collaborator’s message, and they managed to solve the problem while waiting in queue
 - Student gives that collaborator a kudos message and leaves the queue
-![Collaboration flow storyboard](../img/StoryboardCollaboration.png)
+![Collaboration flow storyboard](/power-hour/img/StoryboardCollaboration.png){: height="159px" width="299px" }
 
 ## Architectural design
 
 This is our total flow for our Office Hours tool with qualitative descriptions of how our components will talk to each other, get user input, and process inputted data.
-![Backend, data and query pipeline, and frontend diagram](../img/TotalFlowDiagram.png)
+![Backend, data and query pipeline, and frontend diagram](/power-hour/img/TotalFlowDiagram.png)
 
 
 In the figure below, you can see subcomponents of our endpoints for our site navigation and overall flow.
-![Subcomponents of endpoints for site navigation](../img/SubcomponentsDiagram.png)
+![Subcomponents of endpoints for site navigation](/power-hour/img/SubcomponentsDiagram.png)
 
 ## How our system enables the requirements
 All the components we have identified above fits together to create an end-to-end web application. We will focus on the student flow and students can sign up for an account in our tool then sign in to join a particular active OH session hosted by a TA. They can view the current queue and choose to join the queue with their particular request and leave the queue if they decide to, along with seeing their estimated wait time. All OH requests from different students and their account information will be stored in the backend database, and the statuses of the requests would be updated accordingly using the endpoints. The stream chat API enables us to manage a built-in chat application, including functionality like creating a chat with selected users, posting in the chat, and storing and displaying the message history. The chat enables them to reach out to other collaborators or join an existing collaboration session in the current active OH session.
