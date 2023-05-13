@@ -4,9 +4,6 @@ hr {
 }
 
 /* Post navigation links */
-.post_navi {
-  display: flex;
-}
 
 .post_navi-label {
   font-size: 0.8em;
