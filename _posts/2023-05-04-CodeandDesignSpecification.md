@@ -56,7 +56,7 @@ Student flow:
 ### Registration flow
 - Student registers for an account with their email and password
 - Student logs in everytime she wants to enter the queue. Her messages and previous queuing history is stored in this account.
-![Login flow storyboard](/power-hour/img/StoryboardRegistration.png){: height="159px" width="299px" }
+![Login flow storyboard](/power-hour/img/StoryboardRegistration.png){: height="300px" width="160px" }
 
 ### Normal OH flow
 - Student gets stuck on HW and signs into the OH tool
@@ -65,14 +65,14 @@ Student flow:
 - TA comes over and help the student (Status: Being Helped)
 - Student is helped and gets prompted a message to give the TA a kudos if they are helpful (Status: Helped)
 - Student gives TA a kudos and walks away satisfied
-![Normal flow storyboard](/power-hour/img/StoryboardNormal.png){: height="159px" width="299px" }
+![Normal flow storyboard](/power-hour/img/StoryboardNormal.png)
 
 ### Collaboration flow
 - Student sees many people open to collaboration on the queue working on similar problem
 - Student creates a collaboration session/joins an existing collaboration session with those students
 - In the chat, student gets inspiration from a collaborator’s message, and they managed to solve the problem while waiting in queue
 - Student gives that collaborator a kudos message and leaves the queue
-![Collaboration flow storyboard](/power-hour/img/StoryboardCollaboration.png){: height="159px" width="299px" }
+![Collaboration flow storyboard](/power-hour/img/StoryboardCollaboration.png)
 
 ## Architectural design
 

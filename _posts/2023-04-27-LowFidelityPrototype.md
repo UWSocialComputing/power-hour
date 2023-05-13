@@ -1,6 +1,6 @@
 # Low-Fidelity Prototype
 
-Our prototype includes the following components:
+## Prototype components:
 - **The OH queue**: The OH queue should include information on what students are working on. We use a spreadsheet to simulate it so we can learn what information users need on the queue interface.
 - **Joining the OH**: When joining the queue, students will need to enter some information before getting help. We use a google form that asks for students’ name, question type, details on their question, and whether or not they are open to collaboration.
 After submitting, we will show them a spreadsheet that we will populate with their response and additional columns such as timestamp and status. This will allow them to track their place in the queue and see what other students are working on, as well as their willingness to collaborate.
