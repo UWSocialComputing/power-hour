@@ -56,7 +56,8 @@ Student flow:
 ### Registration flow
 - Student registers for an account with their email and password
 - Student logs in everytime she wants to enter the queue. Her messages and previous queuing history is stored in this account.
-![Login flow storyboard](/power-hour/img/StoryboardRegistration.png){: height="300px" width="160px" }
+
+![Login flow storyboard](/power-hour/img/StoryboardRegistration.png){: height="400px" width="260px" }
 
 ### Normal OH flow
 - Student gets stuck on HW and signs into the OH tool
