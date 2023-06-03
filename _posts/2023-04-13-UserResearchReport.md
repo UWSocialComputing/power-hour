@@ -45,8 +45,8 @@ Based on the feedback collected from students and TAs, the following are the key
 2. **Keep a list of solved bugs:** Maintaining a list of previously solved bugs can be helpful for students who may encounter similar issues in the future.
 3. **Encourage peer-to-peer collaboration:** Students want to work with their peers during office hours. Encouraging collaboration and providing tools for peer-to-peer interactions can lead to a more engaging learning environment.
 4. **Improve the queuing system:** A queuing system that takes into account the severity and length of student questions, can reduce wait times and ensure that urgent questions are addressed promptly.
-Dedicated office hours for peer-to-peer collaborations: This creates a space for students to work together and learn from each other. Alternatively, having individual-focused office hours can help students with specific questions.
-5. **Provide estimated wait-times:** Accurate wait-times allow students to plan ahead and engage in other activities while waiting.
-6. **Make use of wait-times:** Students often spend 30 minutes to an hour at office hours but only 10 minutes getting help from the TA. Access to alternative tools and resources while waiting would help them to stay productive.
-7. **Limit time with each student:** TAs and students are put in an awkward position when a student takes too long at OH so a system that automatically reminds students to wrap up their question would be helpful.
+5. **Dedicated office hours for peer-to-peer collaborations:** This creates a space for students to work together and learn from each other. Alternatively, having individual-focused office hours can help students with specific questions.
+6. **Provide estimated wait-times:** Accurate wait-times allow students to plan ahead and engage in other activities while waiting.
+7. **Make use of wait-times:** Students often spend 30 minutes to an hour at office hours but only 10 minutes getting help from the TA. Access to alternative tools and resources while waiting would help them to stay productive.
+8. **Limit time with each student:** TAs and students are put in an awkward position when a student takes too long at OH so a system that automatically reminds students to wrap up their question would be helpful.
 
