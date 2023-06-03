@@ -1,6 +1,5 @@
 # User Testing
-## Medium-Fidelity Prototype
-### Key Functionalities
+## Functionalities Tested
 - **Sign up/log in:** Users can create an account with Name, Username, and Password then log in with those credentials
   - [frontend/src/pages/Login.tsx](https://www.google.com/url?q=https://github.com/UWSocialComputing/power-hour-code/blob/main/frontend/src/pages/Login.tsx&sa=D&source=editors&ust=1685776897285883&usg=AOvVaw1-dQe1HX7JlWc5_m6_D5GG)
   - [frontend/src/pages/Signup.tsx](https://www.google.com/url?q=https://github.com/UWSocialComputing/power-hour-code/blob/main/frontend/src/pages/Signup.tsx&sa=D&source=editors&ust=1685776897286498&usg=AOvVaw0WnCoWjuJjB1PtwtogfC6V)
@@ -12,13 +11,18 @@
 - We omitted the TA flow and kudos system for now, and we have pre-populated notifications displayed.
 
 ## Screenshots
-|     Login   |     Queue    |        Queing Form        |
-|     :--:    |     :--:    |        :--:        |
-| ![Login](/power-hour/img/UserTestingLogin.png){: height="130px" width="130px" }|![Queue](/power-hour/img/UserTestingQueue.png){: height="150px" width="200px" }|![Queue form](/power-hour/img/UserTestingQueueForm.png){: height="150px" width="200px" } |
 
-|     Joined Queue   |     Collaborate    |        Chat       |
-|     :--:    |     :--:    |        :--:        |
-| ![Queue joined](/power-hour/img/UserTestingQueueJoined.png){: height="150px" width="200px" } | ![Collaborate](/power-hour/img/UserTestingCollaborate.png){: height="150px" width="200px" } | ![Chat](/power-hour/img/UserTestingChat.png){: height="150px" width="200px" } |
+|     Log in  |    Queue     |
+|     :--:    |     :--:    |
+| ![Login](/power-hour/img/UserTestingLogin.png){: height="250px" width="400px" }|![Queue](/power-hour/img/UserTestingQueue.png){: height="250px" width="400px" }|
+
+|     Join queue form  |   Queue joined      |
+|     :--:    |     :--:    |
+| ![Queue form](/power-hour/img/UserTestingQueueForm.png){: height="250px" width="400px" } | ![Queue joined](/power-hour/img/UserTestingQueueJoined.png){: height="250px" width="400px" } |
+
+|     Collaborate   |     Chat    |
+|     :--:    |        :--:       |
+| ![Collaborate](/power-hour/img/UserTestingCollaborate.png){: height="250px" width="400px" } | ![Chat](/power-hour/img/UserTestingChat.png){: height="250px" width="400px" } |
 
 ## User Testing Findings
 
