@@ -14,15 +14,15 @@
 
 |     Log in  |    Queue     |
 |     :--:    |     :--:    |
-| ![Login](/power-hour/img/UserTestingLogin.png){: height="250px" width="400px" }|![Queue](/power-hour/img/UserTestingQueue.png){: height="250px" width="400px" }|
+| ![Login](/power-hour/img/UserTestingLogin.png){: height="200px" width="400px" }|![Queue](/power-hour/img/UserTestingQueue.png){: height="200px" width="400px" }|
 
 |     Join queue form  |   Queue joined      |
 |     :--:    |     :--:    |
-| ![Queue form](/power-hour/img/UserTestingQueueForm.png){: height="250px" width="400px" } | ![Queue joined](/power-hour/img/UserTestingQueueJoined.png){: height="250px" width="400px" } |
+| ![Queue form](/power-hour/img/UserTestingQueueForm.png){: height="200px" width="400px" } | ![Queue joined](/power-hour/img/UserTestingQueueJoined.png){: height="200px" width="400px" } |
 
 |     Collaborate   |     Chat    |
 |     :--:    |        :--:       |
-| ![Collaborate](/power-hour/img/UserTestingCollaborate.png){: height="250px" width="400px" } | ![Chat](/power-hour/img/UserTestingChat.png){: height="250px" width="400px" } |
+| ![Collaborate](/power-hour/img/UserTestingCollaborate.png){: height="200px" width="400px" } | ![Chat](/power-hour/img/UserTestingChat.png){: height="200px" width="400px" } |
 
 ## User Testing Findings
 
