@@ -1,4 +1,4 @@
-![img/Logo.jpg]
+![logo](img/Logo.png){: height="70px" width="70px" }
 
 *Turn office hours into a power hour*
 
