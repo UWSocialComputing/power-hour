@@ -16,6 +16,6 @@ Try out Power Hour [here](https://www.google.com/url?q=https://github.com/UWSoci
 
 # Our Team
 
-| ![Amanda profile](img/AmandaProfile.jpg){: height="130px" width="130px" } - Frontend Engineer|![Andrea profile](img/AndreaProfile.jpg){: height="130px" width="130px" } Project Manager|![Sonia profile](img/SoniaProfile.png){: height="130px" width="130px" } - Backend Engineer | ![Wen profile](img/WenProfile.jpg){: height="130px" width="130px" } - Project Manager & Full Stack Engineer
+| ![Amanda profile](img/AmandaProfile.jpg){: height="130px" width="130px" }|![Andrea profile](img/AndreaProfile.jpg){: height="130px" width="130px" }|![Sonia profile](img/SoniaProfile.png){: height="130px" width="130px" } | ![Wen profile](img/WenProfile.jpg){: height="130px" width="130px" }
 |     :--:    |     :--:    |        :--:        |    :--:   |
-| <a href="https://www.linkedin.com/in/amandakha/" target="_blank">Amanda Ha</a> | <a href="https://www.linkedin.com/in/andreakha/" target="_blank">Andrea Ha</a> | <a href="https://www.linkedin.com/in/fereidooni/" target="_blank">Sonia Fereidooni</a> | <a href="https://www.linkedin.com/in/wen-qiu/" target="_blank">Wen Qiu</a> |
+| <a href="https://www.linkedin.com/in/amandakha/" target="_blank">Amanda Ha</a> - Frontend Engineer | <a href="https://www.linkedin.com/in/andreakha/" target="_blank">Andrea Ha</a> - Project Manager | <a href="https://www.linkedin.com/in/fereidooni/" target="_blank">Sonia Fereidooni</a> - Backend Engineer | <a href="https://www.linkedin.com/in/wen-qiu/" target="_blank">Wen Qiu</a> - Project Manager & Full Stack Engineer |
