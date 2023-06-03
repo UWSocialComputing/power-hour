@@ -10,7 +10,7 @@
   - [frontend/src/pages/objects/CreateChatView.tsx](https://www.google.com/url?q=https://github.com/UWSocialComputing/power-hour-code/blob/main/frontend/src/pages/objects/CreateChatView.tsx&sa=D&source=editors&ust=1685776897288539&usg=AOvVaw0a1sLinFiBjPfqhQM-I_wG)
 - We omitted the TA flow and kudos system for now, and we have pre-populated notifications displayed.
 
-## Screenshots
+### Screenshots
 
 |     Log in  |    Queue     |
 |     :--:    |     :--:    |

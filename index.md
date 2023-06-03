@@ -1,6 +1,5 @@
-![logo](img/Logo.png){: height="70px" width="70px" }
-
 *Turn office hours into a power hour*
+![logo](img/Logo.png){: height="70px" width="70px" }
 
 Students spend more time waiting than getting help at office hours. Power Hour is a sleek new Office Hours queuing system for CSE courses that helps students make better use of their wait-time.
 
